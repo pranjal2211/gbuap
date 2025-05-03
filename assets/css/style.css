@@ -1,0 +1,15 @@
+body {
+    background: #dfdfc6;
+}
+.card {
+    border-radius: 10px;
+}
+.navbar {
+    border-radius: 0 0 10px 10px;
+}
+.table th, .table td {
+    vertical-align: middle;
+}
+.btn {
+    border-radius: 5px;
+}
